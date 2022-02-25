@@ -46,7 +46,7 @@ const index = () => {
         : <Loader />
       }
       
-      <CreateComment />
+      <CreateComment postId = {postId}/>
 
       <h4>Comments</h4>
       {comments ?

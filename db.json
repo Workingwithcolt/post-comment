@@ -184,6 +184,61 @@
       "content": "mohtie",
       "id": 267,
       "cretedAt": 1645777196450
+    },
+    {
+      "content": "Kai po Che",
+      "id": 52,
+      "cretedAt": 1645780835441
+    },
+    {
+      "content": "Sushant rajput movie is that",
+      "id": 825,
+      "cretedAt": 1645780885161
+    },
+    {
+      "content": "h",
+      "id": 64,
+      "cretedAt": 1645780898378
+    },
+    {
+      "content": "f",
+      "id": 240,
+      "cretedAt": 1645781809461
+    },
+    {
+      "content": "Chetan",
+      "id": 268,
+      "cretedAt": 1645781813815
+    },
+    {
+      "content": "Cjdf",
+      "id": 703,
+      "cretedAt": 1645781833214
+    },
+    {
+      "content": "fdf",
+      "id": 42,
+      "cretedAt": 1645781837056
+    },
+    {
+      "content": "mijhjfid",
+      "id": 467,
+      "cretedAt": 1645781841511
+    },
+    {
+      "content": "dfd",
+      "id": 966,
+      "cretedAt": 1645781845988
+    },
+    {
+      "content": "d",
+      "id": 138,
+      "cretedAt": 1645781848486
+    },
+    {
+      "content": "Chetan",
+      "id": 33,
+      "cretedAt": 1645782097182
     }
   ],
   "comments": [
@@ -216,6 +271,24 @@
       "content": "This is a comment of post 3",
       "postId": 3,
       "createdAt": 1625745022499
+    },
+    {
+      "id": 801,
+      "content": "I love My favourite People ",
+      "cretedAt": 1645782292570,
+      "postId": "182"
+    },
+    {
+      "id": 412,
+      "content": "I love my self",
+      "cretedAt": 1645782306253,
+      "postId": "182"
+    },
+    {
+      "id": 86,
+      "content": "I am Waiting to some-one who love me a lots ",
+      "cretedAt": 1645782325873,
+      "postId": "182"
     }
   ]
 }
