@@ -21,7 +21,7 @@ export default function Home() {
   return (
     <div>
       <h4>useSWR Hook ⛳</h4>
-      <CreatePost setPosts = {setPosts}/>
+      <CreatePost setPosts/>
 
       <h4>Posts</h4>
       {
